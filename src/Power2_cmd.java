@@ -1,4 +1,4 @@
-package day5_6;
+
 
 public class Power2_cmd {
     public static void main(String arg[]) {

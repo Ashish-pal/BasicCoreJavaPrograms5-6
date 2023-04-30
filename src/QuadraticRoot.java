@@ -1,4 +1,4 @@
-package day5_6;
+
 import java.util.Scanner;
 public class QuadraticRoot {
     public static void calDeterminent(double a, double b, double c) {

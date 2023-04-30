@@ -1,5 +1,3 @@
-package day5_6;
-
 import java.util.Scanner;
 import java.util.Random;
 public class CoupanNumber {

@@ -1,5 +1,3 @@
-package day5_6;
-
 public class DistanceCMD {
     public static double calDistance(int x, int y) {
         double distance = Math.sqrt(Math.pow(x, x) + Math.pow(y, y));
